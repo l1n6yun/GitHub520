@@ -1,0 +1,33 @@
+name: GitHub
+on:
+  push:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - name: Update hosts file
+        run: php fetch_ips.php
+
+      - name: commit
+        id: commit
+        run: |
+          git config --global user.email l1n6yun@gmail.com
+          git config --global user.name l1n6yun
+          git add .
+          git commit -m "update readme content"
+        continue-on-error: true
+
+      - name: Check on failures
+        if: steps.commit.outputs.status == 'failure'
+        run: exit 1
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
