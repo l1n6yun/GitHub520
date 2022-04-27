@@ -110,8 +110,10 @@ foreach ($hosts as $host) {
 }
 
 $hostsContent = str_replace(['{content}', '{update_time}'], [$content, date('Y-m-d H:i:s')], $template);
+$readmeTemplate = file_get_contents('README_template.md');
+$readme = str_replace(['{content}', '{update_time}'], [$hostsContent, date('Y-m-d H:i:s')], $readmeTemplate);
 
 
+file_put_contents("README.md", $readme);
 file_put_contents("hosts", $hostsContent);
-
 file_put_contents("hosts.json", json_encode($contentArray));
