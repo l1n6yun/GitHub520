@@ -109,9 +109,9 @@ foreach ($hosts as $host) {
     $contentArray[] = [$ip, $host];
 }
 
-$hostsContent = str_replace(['{content}', '{update_time}'], [$content, date('Y-m-d H:i:s')], $template);
+$hostsContent = str_replace(['{content}', '{update_time}'], [$content, date('c')], $template);
 $readmeTemplate = file_get_contents('README_template.md');
-$readme = str_replace(['{content}', '{update_time}'], [$hostsContent, date('Y-m-d H:i:s')], $readmeTemplate);
+$readme = str_replace(['{content}', '{update_time}'], [$hostsContent, date('c')], $readmeTemplate);
 
 
 file_put_contents("README.md", $readme);
