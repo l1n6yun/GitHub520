@@ -9,10 +9,10 @@
 ```text
 # GitHub520 Host Start
 
-       140.82.113.26     alive.github.com
-       140.82.113.25     live.github.com
+       140.82.114.25     alive.github.com
+       140.82.114.25     live.github.com
      185.199.108.154     github.githubassets.com
-       140.82.113.22     central.github.com
+       140.82.114.21     central.github.com
      185.199.110.133     desktop.githubusercontent.com
      185.199.108.153     assets-cdn.github.com
      185.199.110.133     camo.githubusercontent.com
@@ -34,28 +34,28 @@
      185.199.110.133     avatars0.githubusercontent.com
      185.199.110.133     avatars.githubusercontent.com
         140.82.114.9     codeload.github.com
-        52.217.91.92     github-cloud.s3.amazonaws.com
-      52.216.143.172     github-com.s3.amazonaws.com
-       52.217.195.65     github-production-release-asset-2e65be.s3.amazonaws.com
-         52.217.1.44     github-production-user-asset-6210df.s3.amazonaws.com
+       52.216.93.139     github-cloud.s3.amazonaws.com
+       52.217.80.116     github-com.s3.amazonaws.com
+       52.217.80.116     github-production-release-asset-2e65be.s3.amazonaws.com
+      52.217.100.228     github-production-user-asset-6210df.s3.amazonaws.com
          52.217.1.44     github-production-repository-file-5c1aeb.s3.amazonaws.com
      185.199.108.153     githubstatus.com
        64.71.144.211     github.community
        23.100.27.125     github.dev
-       140.82.113.21     collector.github.com
+       140.82.114.22     collector.github.com
         13.107.42.16     pipelines.actions.githubusercontent.com
      185.199.110.133     media.githubusercontent.com
      185.199.110.133     cloud.githubusercontent.com
      185.199.110.133     objects.githubusercontent.com
 
-# Update time: 2022-05-05T09:43:26+08:00
+# Update time: 2022-05-05T11:23:39+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-05T09:43:26+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-05T11:23:39+08:00
 
 ### 修改 hosts 文件
 
