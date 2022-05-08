@@ -34,10 +34,10 @@
      185.199.110.133     avatars0.githubusercontent.com
      185.199.110.133     avatars.githubusercontent.com
         140.82.112.9     codeload.github.com
-        52.216.90.44     github-cloud.s3.amazonaws.com
-        52.216.90.44     github-com.s3.amazonaws.com
-      54.231.140.233     github-production-release-asset-2e65be.s3.amazonaws.com
-       54.231.134.97     github-production-user-asset-6210df.s3.amazonaws.com
+       52.216.82.248     github-cloud.s3.amazonaws.com
+      52.216.100.147     github-com.s3.amazonaws.com
+       52.217.105.68     github-production-release-asset-2e65be.s3.amazonaws.com
+        52.217.0.220     github-production-user-asset-6210df.s3.amazonaws.com
       52.216.241.132     github-production-repository-file-5c1aeb.s3.amazonaws.com
      185.199.108.153     githubstatus.com
        64.71.144.211     github.community
@@ -48,14 +48,14 @@
      185.199.110.133     cloud.githubusercontent.com
      185.199.110.133     objects.githubusercontent.com
 
-# Update time: 2022-05-08T20:31:24+08:00
+# Update time: 2022-05-08T22:17:13+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-08T20:31:24+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-08T22:17:13+08:00
 
 ### 修改 hosts 文件
 
