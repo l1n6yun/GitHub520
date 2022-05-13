@@ -48,14 +48,14 @@
      185.199.108.133     cloud.githubusercontent.com
      185.199.108.133     objects.githubusercontent.com
 
-# Update time: 2022-05-13T14:27:14+08:00
+# Update time: 2022-05-13T16:23:26+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-13T14:27:14+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-05-13T16:23:26+08:00
 
 ### 修改 hosts 文件
 
