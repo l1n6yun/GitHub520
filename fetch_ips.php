@@ -41,7 +41,7 @@ $hosts = [
     "media.githubusercontent.com",
     "cloud.githubusercontent.com",
     "objects.githubusercontent.com",
-    "api.github.com",
+    "raw.github.com",
 ];
 
 $template = <<<EOT
