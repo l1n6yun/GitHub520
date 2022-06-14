@@ -40,7 +40,8 @@ $hosts = [
     "pipelines.actions.githubusercontent.com",
     "media.githubusercontent.com",
     "cloud.githubusercontent.com",
-    "objects.githubusercontent.com"
+    "objects.githubusercontent.com",
+    "api.github.com",
 ];
 
 $template = <<<EOT
