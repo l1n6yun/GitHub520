@@ -26,7 +26,7 @@
      185.199.108.133     raw.githubusercontent.com
      185.199.108.133     user-images.githubusercontent.com
      185.199.108.133     favicons.githubusercontent.com
-                         avatars5.githubusercontent.com
+     185.199.108.133     avatars5.githubusercontent.com
      185.199.108.133     avatars4.githubusercontent.com
      185.199.108.133     avatars3.githubusercontent.com
      185.199.108.133     avatars2.githubusercontent.com
@@ -49,14 +49,14 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2022-08-11T00:32:12+08:00
+# Update time: 2022-08-11T02:23:15+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-11T00:32:12+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-11T02:23:15+08:00
 
 ### 修改 hosts 文件
 
