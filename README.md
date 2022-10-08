@@ -22,7 +22,7 @@
      185.199.108.153     github.io
         140.82.114.4     github.com
           192.0.66.2     github.blog
-        140.82.113.5     api.github.com
+        140.82.114.6     api.github.com
      185.199.108.133     raw.githubusercontent.com
      185.199.108.133     user-images.githubusercontent.com
      185.199.108.133     favicons.githubusercontent.com
@@ -49,14 +49,14 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2022-10-09T00:29:49+08:00
+# Update time: 2022-10-09T02:26:25+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-09T00:29:49+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-09T02:26:26+08:00
 
 ### 修改 hosts 文件
 
