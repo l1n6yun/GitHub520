@@ -8,7 +8,7 @@
      185.199.108.153     assets-cdn.github.com
      185.199.110.133     camo.githubusercontent.com
      185.199.108.133     github.map.fastly.net
-                         github.global.ssl.fastly.net
+       151.101.1.194     github.global.ssl.fastly.net
         140.82.112.4     gist.github.com
      185.199.108.153     github.io
         140.82.114.3     github.com
@@ -30,7 +30,7 @@
         52.216.39.41     github-production-release-asset-2e65be.s3.amazonaws.com
            3.5.2.158     github-production-user-asset-6210df.s3.amazonaws.com
            3.5.6.186     github-production-repository-file-5c1aeb.s3.amazonaws.com
-     185.199.108.153     githubstatus.com
+                         githubstatus.com
        140.82.114.17     github.community
        52.224.38.193     github.dev
        140.82.112.22     collector.github.com
@@ -40,7 +40,7 @@
      185.199.110.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2022-12-06T22:15:20+08:00
+# Update time: 2022-12-07T00:23:46+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
