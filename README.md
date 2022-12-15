@@ -20,7 +20,7 @@
        151.101.1.194     github.global.ssl.fastly.net
         140.82.113.4     gist.github.com
      185.199.108.153     github.io
-        140.82.112.3     github.com
+        140.82.112.4     github.com
           192.0.66.2     github.blog
         140.82.112.5     api.github.com
      185.199.108.133     raw.githubusercontent.com
@@ -43,20 +43,20 @@
        140.82.114.17     github.community
        52.224.38.193     github.dev
        140.82.114.22     collector.github.com
-        13.107.42.16     pipelines.actions.githubusercontent.com
+        13.107.43.16     pipelines.actions.githubusercontent.com
      185.199.108.133     media.githubusercontent.com
      185.199.108.133     cloud.githubusercontent.com
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2022-12-15T09:22:49+08:00
+# Update time: 2022-12-15T10:48:04+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-15T09:22:49+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-15T10:48:04+08:00
 
 ### 修改 hosts 文件
 
