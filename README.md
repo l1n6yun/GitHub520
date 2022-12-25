@@ -12,7 +12,7 @@
        140.82.114.26     alive.github.com
        140.82.112.26     live.github.com
      185.199.108.154     github.githubassets.com
-       140.82.112.21     central.github.com
+       140.82.113.21     central.github.com
      185.199.108.133     desktop.githubusercontent.com
      185.199.108.153     assets-cdn.github.com
      185.199.108.133     camo.githubusercontent.com
@@ -20,9 +20,9 @@
        151.101.1.194     github.global.ssl.fastly.net
         140.82.114.3     gist.github.com
      185.199.108.153     github.io
-        140.82.113.4     github.com
+        140.82.114.3     github.com
           192.0.66.2     github.blog
-        140.82.113.5     api.github.com
+                         api.github.com
      185.199.108.133     raw.githubusercontent.com
      185.199.108.133     user-images.githubusercontent.com
      185.199.108.133     favicons.githubusercontent.com
@@ -32,7 +32,7 @@
      185.199.108.133     avatars2.githubusercontent.com
      185.199.108.133     avatars1.githubusercontent.com
      185.199.108.133     avatars0.githubusercontent.com
-                         avatars.githubusercontent.com
+     185.199.108.133     avatars.githubusercontent.com
         140.82.113.9     codeload.github.com
        52.216.60.185     github-cloud.s3.amazonaws.com
            3.5.2.188     github-com.s3.amazonaws.com
@@ -49,14 +49,14 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2022-12-26T00:20:49+08:00
+# Update time: 2022-12-26T02:18:05+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-26T00:20:49+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-26T02:18:05+08:00
 
 ### 修改 hosts 文件
 
