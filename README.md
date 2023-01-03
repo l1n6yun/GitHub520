@@ -45,18 +45,18 @@
        140.82.113.21     collector.github.com
         13.107.42.16     pipelines.actions.githubusercontent.com
      185.199.108.133     media.githubusercontent.com
-                         cloud.githubusercontent.com
+     185.199.108.133     cloud.githubusercontent.com
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2023-01-03T21:08:43+08:00
+# Update time: 2023-01-03T22:14:20+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-03T21:08:43+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-03T22:14:20+08:00
 
 ### 修改 hosts 文件
 
