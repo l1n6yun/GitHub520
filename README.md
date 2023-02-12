@@ -12,7 +12,7 @@
        140.82.112.25     alive.github.com
        140.82.114.26     live.github.com
      185.199.108.154     github.githubassets.com
-                         central.github.com
+       140.82.112.22     central.github.com
      185.199.108.133     desktop.githubusercontent.com
      185.199.108.153     assets-cdn.github.com
      185.199.108.133     camo.githubusercontent.com
@@ -38,25 +38,25 @@
            3.5.2.131     github-com.s3.amazonaws.com
            3.5.8.210     github-production-release-asset-2e65be.s3.amazonaws.com
         52.216.25.20     github-production-user-asset-6210df.s3.amazonaws.com
-      178.63.219.124     github-production-repository-file-5c1aeb.s3.amazonaws.com
+       52.216.52.233     github-production-repository-file-5c1aeb.s3.amazonaws.com
      185.199.108.153     githubstatus.com
        140.82.114.18     github.community
        52.224.38.193     github.dev
        140.82.112.22     collector.github.com
         13.107.42.16     pipelines.actions.githubusercontent.com
      185.199.108.133     media.githubusercontent.com
-      178.63.219.124     cloud.githubusercontent.com
+     185.199.108.133     cloud.githubusercontent.com
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2023-02-12T18:19:10+08:00
+# Update time: 2023-02-12T20:29:47+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-12T18:19:10+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-12T20:29:47+08:00
 
 ### 修改 hosts 文件
 
