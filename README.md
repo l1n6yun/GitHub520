@@ -18,11 +18,11 @@
      185.199.108.133     camo.githubusercontent.com
      185.199.108.133     github.map.fastly.net
        151.101.1.194     github.global.ssl.fastly.net
-        140.82.112.3     gist.github.com
+        140.82.114.3     gist.github.com
      185.199.108.153     github.io
         140.82.114.4     github.com
           192.0.66.2     github.blog
-        140.82.112.6     api.github.com
+        140.82.113.6     api.github.com
      185.199.108.133     raw.githubusercontent.com
      185.199.108.133     user-images.githubusercontent.com
      185.199.108.133     favicons.githubusercontent.com
@@ -33,8 +33,8 @@
      185.199.108.133     avatars1.githubusercontent.com
      185.199.108.133     avatars0.githubusercontent.com
      185.199.108.133     avatars.githubusercontent.com
-       140.82.112.10     codeload.github.com
-          3.5.28.157     github-cloud.s3.amazonaws.com
+        140.82.112.9     codeload.github.com
+            3.5.0.21     github-cloud.s3.amazonaws.com
       52.216.146.203     github-com.s3.amazonaws.com
           3.5.29.171     github-production-release-asset-2e65be.s3.amazonaws.com
            3.5.6.204     github-production-user-asset-6210df.s3.amazonaws.com
@@ -49,14 +49,14 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2023-06-15T20:16:43+08:00
+# Update time: 2023-06-15T23:08:40+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-15T20:16:43+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-15T23:08:40+08:00
 
 ### 修改 hosts 文件
 
