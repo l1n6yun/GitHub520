@@ -26,10 +26,10 @@
      185.199.108.133     avatars.githubusercontent.com
        140.82.114.10     codeload.github.com
           3.5.25.194     github-cloud.s3.amazonaws.com
-          3.5.27.108     github-com.s3.amazonaws.com
+          3.5.25.160     github-com.s3.amazonaws.com
           3.5.25.214     github-production-release-asset-2e65be.s3.amazonaws.com
            3.5.25.53     github-production-user-asset-6210df.s3.amazonaws.com
-           3.5.7.170     github-production-repository-file-5c1aeb.s3.amazonaws.com
+          3.5.25.136     github-production-repository-file-5c1aeb.s3.amazonaws.com
      185.199.108.153     githubstatus.com
        140.82.114.18     github.community
        52.224.38.193     github.dev
@@ -40,7 +40,7 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2024-01-02T17:09:25+08:00
+# Update time: 2024-01-02T20:15:29+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
