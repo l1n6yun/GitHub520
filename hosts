@@ -3,7 +3,7 @@
        140.82.113.26     alive.github.com
        140.82.113.26     live.github.com
      185.199.108.154     github.githubassets.com
-       140.82.112.21     central.github.com
+       140.82.113.21     central.github.com
      185.199.108.133     desktop.githubusercontent.com
      185.199.108.153     assets-cdn.github.com
      185.199.108.133     camo.githubusercontent.com
@@ -31,7 +31,7 @@
            3.5.8.150     github-production-user-asset-6210df.s3.amazonaws.com
          52.216.8.75     github-production-repository-file-5c1aeb.s3.amazonaws.com
      185.199.108.153     githubstatus.com
-       140.82.113.18     github.community
+       140.82.114.17     github.community
        52.224.38.193     github.dev
        140.82.113.22     collector.github.com
         13.107.42.16     pipelines.actions.githubusercontent.com
@@ -40,7 +40,7 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2024-02-17T08:38:27+08:00
+# Update time: 2024-02-17T11:10:23+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
