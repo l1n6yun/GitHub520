@@ -9,8 +9,8 @@
 ```text
 # GitHub520 Host Start
 
-       140.82.113.25     alive.github.com
-       140.82.114.25     live.github.com
+       140.82.112.25     alive.github.com
+       140.82.114.26     live.github.com
      185.199.108.154     github.githubassets.com
        140.82.113.21     central.github.com
      185.199.108.133     desktop.githubusercontent.com
@@ -49,14 +49,14 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2024-03-07T14:12:05+08:00
+# Update time: 2024-03-07T17:07:27+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-07T14:12:05+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-07T17:07:27+08:00
 
 ### 修改 hosts 文件
 
