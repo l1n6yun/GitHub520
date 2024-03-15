@@ -16,7 +16,7 @@
      185.199.108.133     desktop.githubusercontent.com
      185.199.108.153     assets-cdn.github.com
      185.199.108.133     camo.githubusercontent.com
-      199.232.69.194     github.map.fastly.net
+     185.199.108.133     github.map.fastly.net
        151.101.1.194     github.global.ssl.fastly.net
         140.82.112.3     gist.github.com
      185.199.108.153     github.io
@@ -49,14 +49,14 @@
      185.199.108.133     objects.githubusercontent.com
      185.199.108.133     raw.github.com
 
-# Update time: 2024-03-15T23:08:48+08:00
+# Update time: 2024-03-16T02:12:03+08:00
 # Update url: https://raw.githubusercontent.com/l1n6yun/GitHub520/master/hosts
 # Star me: https://github.com/l1n6yun/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-15T23:08:48+08:00
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-16T02:12:03+08:00
 
 ### 修改 hosts 文件
 
